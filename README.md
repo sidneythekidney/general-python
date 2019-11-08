@@ -2,7 +2,7 @@
 
 copier.py: Allows a user to copy more than one element to the "clipboard" at once and access each copied statement later.
 
-factorial.py:  Computes prime factorization of any inserted number.
+prime-factorization.py:  Computes prime factorization of any inserted number.
 
 hangman.py: Plays a text-based game of hangman.
 
